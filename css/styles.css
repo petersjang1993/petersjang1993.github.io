@@ -1,0 +1,20 @@
+html, body, header, #intro {
+    height: 100%;
+}
+
+#intro {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#intro img {
+    border-radius: 50%;
+}
+
+
+#gallery img {
+    height: 200px;
+}
+
